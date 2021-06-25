@@ -1,4 +1,4 @@
-# kool-kuhm-klients.github.io
+# kool kuhm klients website
 funny website, made by noatmc :^)
 ### credits
 - particles.js : library i used for website
